@@ -31,10 +31,6 @@
 .backpackcon{
     margin-top: 60px;
 }
-#subscribe{
-    text-align: center;
-    margin-top: 60px;
-}
 .inputEdit{
     width: 50%;
     margin-left:265px;
@@ -42,4 +38,8 @@
 .footeredit{
     text-align: center;
     margin-top:50px;
+}
+.extra{
+    text-align: center;
+    margin-top: 60px;
 }
